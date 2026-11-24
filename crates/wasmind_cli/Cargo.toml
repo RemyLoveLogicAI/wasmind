@@ -28,7 +28,7 @@ wasmind_actor_utils = { version = "0.1.0", path = "../wasmind_actor_utils" }
 wasmtime = { workspace = true }
 wasmtime-wasi = { workspace = true }
 
-rand = "0.9"
+rand = "0.10"
 throbber-widgets-tui = "0.8"
 lazy-regex = "3.4.1"
 base64 = "0.22.1"
