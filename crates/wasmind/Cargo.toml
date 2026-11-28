@@ -34,7 +34,7 @@ wasmind_config = { version = "0.1.0", path = "../wasmind_config" }
 wasmind_llm_types = { version = "0.1.0", path = "../wasmind_llm_types" }
 wasmind_actor_utils = { version = "0.1.0", path = "../wasmind_actor_utils" }
 
-rand = "0.9"
+rand = "0.10"
 throbber-widgets-tui = "0.8"
 lazy-regex = "3.4.1"
 base64 = "0.22.1"
